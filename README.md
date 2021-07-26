@@ -17,5 +17,13 @@
 
 * 《分析力学-清华大学基科班课件》
 
+* 矩阵求导
+
+  + 知乎 **长躯鬼侠** 写的两篇文章；
+  + The Matrix Cookbook 
+  + http://www.matrixcalculus.org/
+
+  
+
 
 
