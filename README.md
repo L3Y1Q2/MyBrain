@@ -24,7 +24,15 @@
   + The Matrix Cookbook 
   + http://www.matrixcalculus.org/
 
-  
+
+
+
+---
+
+### Principles of Robot Motion 学习笔记
+
+* 第3章 Configuration Space（上）
+* 
 
 
 
