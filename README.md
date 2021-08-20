@@ -32,7 +32,7 @@
 ### Principles of Robot Motion 学习笔记
 
 * 第3章 Configuration Space（上）
-* 
+* 第3章 Configuration Space（下）
 
 
 
