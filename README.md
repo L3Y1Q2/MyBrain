@@ -43,3 +43,5 @@
 
 * 图论
   + Noon-Bean Transformation详解
+* 杂谈
+  + 自主机器的兴起
