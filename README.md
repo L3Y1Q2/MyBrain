@@ -46,4 +46,7 @@
 * 杂谈
   + 自主机器的兴起
 * 一些有意思的资源/网站汇总
-  + https://darebee.com/about.html 一个健身资源网站，里面可以找到各自各样的健身资源，包括健身计划、动作、食谱等。
+  + https://darebee.com/about.html 一个健身资源网站，里面可以找到各种各样的健身资源，包括健身计划、动作、食谱等。
+  + http://www.fudanmed.com/institute/news222.aspx 是一个复旦大学医院管理研究所每年对中国医院进行的排行，有一定的指导作用。
+  + https://www.geogebra.org/ 是一个免费的数学软件
+  + 
