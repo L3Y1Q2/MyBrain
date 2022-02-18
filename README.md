@@ -3,7 +3,7 @@
 
 ### math
 
-* 《四元数与三维旋转》
+* 《四元数与三维旋转》可以利用一些可视化软件来帮助理解，下方`一些有意思的资源/网站汇总`中有一个推荐
 
 ---
 
@@ -49,4 +49,9 @@
   + https://darebee.com/about.html 一个健身资源网站，里面可以找到各种各样的健身资源，包括健身计划、动作、食谱等。
   + http://www.fudanmed.com/institute/news222.aspx 是一个复旦大学医院管理研究所每年对中国医院进行的排行，有一定的指导作用。
   + https://www.geogebra.org/ 是一个免费的数学软件
+<<<<<<< HEAD
   +  https://pages.longtian.info/gps/ 一篇介绍GPS工作原理的博客的中文翻译，有很多动图。
+=======
+  + https://github.com/iwatake2222/rotation_master 帮助理解刚体旋转的一个可视化软件
+  + 
+>>>>>>> 169145af9ec2e71ca5e98669997aa7e587b0c47c
