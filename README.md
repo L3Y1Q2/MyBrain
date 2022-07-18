@@ -24,6 +24,7 @@
   + 知乎 **长躯鬼侠** 写的两篇文章；
   + The Matrix Cookbook 
   + http://www.matrixcalculus.org/
+  + https://en.wikipedia.org/wiki/Matrix_calculus
 
 
 
