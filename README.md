@@ -56,3 +56,4 @@
   + https://www.geogebra.org/ 是一个免费的数学软件
   + https://github.com/iwatake2222/rotation_master 帮助理解刚体旋转的一个可视化软件
   + https://pages.longtian.info/gps/ 一篇介绍GPS工作原理的博客的中文翻译，有很多动图。
+  + https://github.com/GitHubDaily/GitHubDaily 一个分析有趣开源项目的开源项目
